@@ -87,7 +87,7 @@ border-top:2px solid yellow;
 
  }
 
-@media (width:400px){
+@media (width<650px){
 
    input{
       font-size:15px;
