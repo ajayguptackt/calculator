@@ -79,11 +79,26 @@ body
     background-color: green;
  }
 
-
  footer
  {
 border-top:2px solid yellow;
     text-align: center;
     color: #ffffff;
 
+ }
+
+@media (width:400px){
+
+   input{
+      font-size:15px;
+      padding:10px;
+   }
+button
+ {
+   width:30px;
+   height:30px;
+   font-size:12px;
+   margin:5px 10px;
+ }
+footer{font-size:70%;};
  }
