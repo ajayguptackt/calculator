@@ -79,6 +79,7 @@ body
 
 footer
 {
-    color:white;
+    display:block;
+    color:#ffffff;
     text-align:center;
 }
